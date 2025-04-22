@@ -19,7 +19,7 @@
 ---
 
 ### 💼 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-link/)  
+[![LinkedIn](https://www.linkedin.com/in/nikhil-r13011999/)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:raavinikhil2212@gmail.com)
 
 ---
