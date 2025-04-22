@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<h3 align="center">A Data Engineer passionate about solving real-world problems using data</h3>
 
-<!--
-**nikhil-raavi/nikhil-raavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+📚 Currently building data pipelines using **PySpark**, **AWS**, and **Databricks**  
+💡 Exploring **ML with Spark**, **Airflow**, and **Kafka**  
+🌱 Always learning — from batch ETL to real-time fraud detection!  
+🧠 Ask me about: Python, Spark, SQL, Kafka, and GitHub workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![Spark](https://img.shields.io/badge/-Apache%20Spark-FDEE21?style=flat&logo=apachespark)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazonaws)
+![Databricks](https://img.shields.io/badge/-Databricks-E60027?style=flat&logo=databricks)
+![Snowflake](https://img.shields.io/badge/-Snowflake-blue?style=flat&logo=snowflake)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil-raavi&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+- [Fraud Detection in Bank Transactions](https://github.com/nikhil-raavi/fraud-detection-bank-transactions) 🔍  
+- [More coming soon... 🚀]
+
+
