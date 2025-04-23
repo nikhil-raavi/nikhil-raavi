@@ -62,7 +62,7 @@
 
 - Apache Kafka & Airflow for orchestration  
 - Advanced ML with XGBoost and LightGBM  
-- Experiment tracking using MLflow
+- Experiment tracking using MLflow algorithms
 
 ---
 
