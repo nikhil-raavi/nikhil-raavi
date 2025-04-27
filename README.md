@@ -35,16 +35,27 @@
 
 ### 🔧 Skills and Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-EE4C2C?logo=apache-spark&logoColor=white)
+#### ☁️ **Cloud & Big Data**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-E34A1F?logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white)
-![Redshift](https://img.shields.io/badge/AWS%20Redshift-8C4FFF?logo=amazon-aws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-EE4C2C?logo=apache-spark&logoColor=white)
+
+#### 🛠️ **Languages & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+#### 📊 **BI & Visualization**
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-1F376C?logo=tableau&logoColor=white)
+
+---
+
+### 📜 Certifications 
+[![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/...)  
+[![Databricks Certified](https://img.shields.io/badge/Databricks_Developer-FF3621?logo=databricks&logoColor=white)](https://credentials.databricks.com/...)  
 
 ---
 
