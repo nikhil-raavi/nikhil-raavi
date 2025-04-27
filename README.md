@@ -1,9 +1,11 @@
 <!-- GitHub README for Sai Nikhil Ravi -->
 
-<h1 align="center">Hi 👋, I'm Sai Nikhil Ravi</h1>
-<h3 align="center">🚀 Data Engineer | Big Data & Cloud Enthusiast | PySpark • AWS • Databricks</h3>
+<h1 align="center" >Hi 👋, I'm Abhishek </h1>
+<h3 align="center">A Data Engineer with a knack for turning bytes into insights.</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+<br/>
+<p>
+    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ---
 
