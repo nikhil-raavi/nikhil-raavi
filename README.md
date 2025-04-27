@@ -70,11 +70,14 @@
 
 ### 📌 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| [Fraud Detection with PySpark](https://github.com/nikhil-raavi/fraud-detection-bank-transactions) | End-to-end pipeline for identifying suspicious transactions, feature engineering, and applying ML using PySpark |
-| [Postman + Karate CI Testing](#) | Automated postman collection testing with Karate framework in a CI pipeline |
-| [Real-time Twitter ETL](#) | Event-driven tweet ingestion and sentiment analysis using Azure Event Hubs |
+### 📌 Featured Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **[Fraud Detection System](https://github.com/nikhil-raavi/fraud-detection)** | PySpark, AWS Glue, Redshift | Real-time transaction analysis pipeline with **95% anomaly detection accuracy** |
+| **[Twitter Sentiment ETL](https://github.com/nikhil-raavi/twitter-etl)** | Azure Event Hubs, Delta Lake | Streaming pipeline for tweet ingestion & NLP analysis |
+| **[CI/CD for Spark Jobs](https://github.com/nikhil-raavi/spark-cicd)** | GitHub Actions, AWS Lambda | Automated deployment framework for PySpark workflows |
+
 
 ---
 
@@ -94,6 +97,13 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-raavi" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🌟 Visitor Count
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/nikhil-raavi/count.svg" />
 </p>
 
 ---
