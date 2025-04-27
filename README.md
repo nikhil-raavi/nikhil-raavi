@@ -47,16 +47,30 @@
 
 ---
 
-### 🏅 Badges and Certifications
+### 📈 Stats & Highlights
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PySpark-Expert-orange?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark Badge"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-brightgreen?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
-  <img src="https://img.shields.io/badge/SQL-Professional-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/>
-  <img src="https://img.shields.io/badge/Databricks-Certified-red?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Badge"/>
-  <img src="https://img.shields.io/badge/Kafka-Streaming%20Pro-black?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka Badge"/>
-  <img src="https://img.shields.io/badge/Python-Developer-yellow?style=for-the-badge&logo=python&logoColor=black" alt="Python Badge"/>
-</p>
+- 🔍 Built a fraud detection pipeline that flagged 95%+ high-risk transactions using PySpark  
+- 📉 Reduced dashboard refresh time from 4 hours → 2.4 hours at Fiserv  
+- 📂 Created CI/CD deployment automation using Git + Lambda + S3 for PySpark models  
+- 📦 Pushed real-time consumer pipelines using **Azure Event Hubs** and **Delta Lake**
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [Fraud Detection with PySpark](https://github.com/nikhil-raavi/fraud-detection-bank-transactions) | End-to-end pipeline for identifying suspicious transactions, feature engineering, and applying ML using PySpark |
+| [Postman + Karate CI Testing](#) | Automated postman collection testing with Karate framework in a CI pipeline |
+| [Real-time Twitter ETL](#) | Event-driven tweet ingestion and sentiment analysis using Azure Event Hubs |
+
+---
+
+### 🧠 Currently Learning
+
+- Apache Kafka & Airflow for orchestration  
+- Advanced ML with XGBoost and LightGBM  
+- Experiment tracking using MLflow algorithms
 
 ---
 
