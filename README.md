@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sai Nikhil Ravi</h1>
 <h3 align="center">🚀 Data Engineer | Big Data & Cloud Enthusiast | PySpark • AWS • Databricks</h3>
 
-<br/>
+
 <p>
     <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
