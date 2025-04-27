@@ -4,8 +4,9 @@
 <h3 align="center">🚀 Data Engineer | Big Data & Cloud Enthusiast | PySpark • AWS • Databricks</h3>
 
 
-<p>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/Bf7dkcNyUjMAAAAC/data-transfer.gif" />
+<p align="center">
+  <img src="https://media.tenor.com/Bf7dkcNyUjMAAAAC/data-transfer.gif" width="300" alt="Data Engineering Workflow" />
+</p>
 ---
 
 ### 👨‍💼 About Me
