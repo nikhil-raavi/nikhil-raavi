@@ -75,7 +75,7 @@
 |---------|------------|-------------|
 | **[Fraud Detection System](https://github.com/nikhil-raavi/Fraud-Detection-In-Banking-Transactions)** | PySpark, AWS Glue, Redshift | Real-time transaction analysis pipeline with **95% anomaly detection accuracy** |
 | **[Social Media Sentiment ETL](https://github.com/nikhil-raavi/Social-Media-Sentimental-Analysis)** | Azure Event Hubs, Delta Lake | Streaming pipeline for tweet ingestion & NLP analysis |
-| **[Kafka-Airflow](https://github.com/nikhil-raavi/Kafka-Live-Streaming)** | GitHub Actions, AWS Lambda | Automated deployment framework for PySpark workflows |
+| **[Kafka-Airflow](https://github.com/nikhil-raavi/Kafka-Live-Streaming)** | Kafka,Airflow,Pyspark | Automated deployment framework for PySpark workflows |
 
 
 ---
