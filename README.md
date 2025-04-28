@@ -75,7 +75,7 @@
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
 | **[Fraud Detection System](https://github.com/nikhil-raavi/Fraud-Detection-In-Banking-Transactions)** | PySpark, AWS Glue, Redshift | Real-time transaction analysis pipeline with **95% anomaly detection accuracy** |
-| **[Twitter Sentiment ETL](https://github.com/nikhil-raavi/twitter-etl)** | Azure Event Hubs, Delta Lake | Streaming pipeline for tweet ingestion & NLP analysis |
+| **[Social Media Sentiment ETL](https://github.com/nikhil-raavi/Social-Media-Sentimental-Analysis)** | Azure Event Hubs, Delta Lake | Streaming pipeline for tweet ingestion & NLP analysis |
 | **[CI/CD for Spark Jobs](https://github.com/nikhil-raavi/spark-cicd)** | GitHub Actions, AWS Lambda | Automated deployment framework for PySpark workflows |
 
 
