@@ -68,7 +68,6 @@
 
 ---
 
-### 📌 Featured Projects
 
 ### 📌 Featured Projects
 
