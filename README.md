@@ -35,53 +35,56 @@
 
 ### 🔧 Skills and Tools  
 
-#### ☁️ **Cloud Platforms**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-#### 📊 **Big Data & ETL**  
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-EE4C2C?logo=apache-spark&logoColor=white)  
-![Databricks](https://img.shields.io/badge/Databricks-E34A1F?logo=databricks&logoColor=white)  
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?logo=amazon-aws&logoColor=white)  
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0089D6?logo=microsoft-azure&logoColor=white)  
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)  
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apache-kafka&logoColor=white)  
+<!-- Cloud Platforms -->
+<div style="min-width: 200px;">
+  <h4>☁️ Cloud Platforms</h4>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white">
+</div>
 
-#### 🗃️ **Databases & Storage**  
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white)  
-![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-FF9900?logo=amazon-aws&logoColor=white)  
-![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse-0089D6?logo=microsoft-azure&logoColor=white)  
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?logo=delta&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+<!-- Big Data & ETL -->
+<div style="min-width: 200px;">
+  <h4>📊 Big Data & ETL</h4>
+  <img src="https://img.shields.io/badge/Apache_Spark-EE4C2C?logo=apache-spark&logoColor=white">
+  <img src="https://img.shields.io/badge/Databricks-E34A1F?logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS_Glue-FF9900?logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0089D6?logo=microsoft-azure&logoColor=white">
+</div>
 
-#### 🔄 **Data Orchestration & Workflow**  
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apache-airflow&logoColor=white)  
-![AWS Step Functions](https://img.shields.io/badge/AWS_Step_Functions-FF9900?logo=amazon-aws&logoColor=white)  
-![Azure Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0089D6?logo=microsoft-azure&logoColor=white)  
+<!-- Databases & Storage -->
+<div style="min-width: 200px;">
+  <h4>🗃️ Databases & Storage</h4>
+  <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_Redshift-FF9900?logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure_Synapse-0089D6?logo=microsoft-azure&logoColor=white">
+</div>
 
-#### ⚙️ **Infrastructure as Code (IaC) & DevOps**  
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)  
-![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-FF9900?logo=amazon-aws&logoColor=white)  
-![Azure ARM](https://img.shields.io/badge/Azure_ARM-0089D6?logo=microsoft-azure&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+<!-- Data Orchestration -->
+<div style="min-width: 200px;">
+  <h4>🔄 Data Orchestration</h4>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apache-airflow&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS_Step_Functions-FF9900?logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure_Logic_Apps-0089D6?logo=microsoft-azure&logoColor=white">
+</div>
 
-#### 📈 **BI & Visualization**  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-1F376C?logo=tableau&logoColor=white)  
-![AWS QuickSight](https://img.shields.io/badge/AWS_QuickSight-FF9900?logo=amazon-aws&logoColor=white)  
+<!-- DevOps & IaC -->
+<div style="min-width: 200px;">
+  <h4>⚙️ DevOps & IaC</h4>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
+</div>
 
-#### 💻 **Programming & Tools**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)  
-![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  
+<!-- BI & Visualization -->
+<div style="min-width: 200px;">
+  <h4>📈 BI & Visualization</h4>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-1F376C?logo=tableau&logoColor=white">
+</div>
 
-#### 📁 **Data Formats & Serialization**  
-![Parquet](https://img.shields.io/badge/Parquet-50AB8C?logo=apache-parquet&logoColor=white)  
-![Avro](https://img.shields.io/badge/Avro-000000?logo=apache-avro&logoColor=white)  
+</div>
 ---
 
 ### 📜 Certifications 
