@@ -53,6 +53,7 @@
     <img src="https://img.shields.io/badge/Apache_Spark-EE4C2C?logo=apache-spark&logoColor=white">
     <img src="https://img.shields.io/badge/Databricks-E34A1F?logo=databricks&logoColor=white">
     <img src="https://img.shields.io/badge/Informatica-FF4F1F?logo=informatica&logoColor=white">
+      
   </div>
 </div>
 
