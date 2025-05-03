@@ -54,9 +54,23 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
+#### 🗃️ **Databases & Storage**  
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white)  
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-FF9900?logo=amazon-aws&logoColor=white)  
+![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse-0089D6?logo=microsoft-azure&logoColor=white)  
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?logo=delta&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+
+#### 🔄 **Data Orchestration & Workflow**  
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apache-airflow&logoColor=white)  
+![AWS Step Functions](https://img.shields.io/badge/AWS_Step_Functions-FF9900?logo=amazon-aws&logoColor=white)  
+![Azure Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0089D6?logo=microsoft-azure&logoColor=white)  
+
+
 #### 📊 **BI & Visualization**
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-1F376C?logo=tableau&logoColor=white)
+![AWS QuickSight](https://img.shields.io/badge/AWS_QuickSight-FF9900?logo=amazon-aws&logoColor=white) 
 ---
 
 ### 📜 Certifications 
