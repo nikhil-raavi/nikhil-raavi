@@ -33,44 +33,50 @@
 
 ---
 
-### 🔧 Skills and Tools
+### 🔧 Skills and Tools  
 
-#### ☁️ **Cloud & Big Data**
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-E34A1F?logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-EE4C2C?logo=apache-spark&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
 
+<!-- Column 1: Cloud Platforms -->
+<div style="flex: 1; min-width: 250px;">
+  <h4>☁️ Cloud Platforms</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white">
+  </div>
+</div>
 
-#### 🛠️ **ETL Tools**
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?logo=amazon-aws&logoColor=white)  
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0089D6?logo=microsoft-azure&logoColor=white) 
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)  
+<!-- Column 2: Big Data & ETL -->
+<div style="flex: 1; min-width: 250px;">
+  <h4>📊 Big Data & ETL</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://img.shields.io/badge/Apache_Spark-EE4C2C?logo=apache-spark&logoColor=white">
+    <img src="https://img.shields.io/badge/Databricks-E34A1F?logo=databricks&logoColor=white">
+    <img src="https://img.shields.io/badge/Informatica-FF4F1F?logo=informatica&logoColor=white">
+  </div>
+</div>
 
-#### 🛠️ **Languages & Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+<!-- Column 3: Databases & Storage -->
+<div style="flex: 1; min-width: 250px;">
+  <h4>🗃️ Databases & Storage</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon_Redshift-FF9900?logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?logo=delta&logoColor=white">
+  </div>
+</div>
 
-#### 🗃️ **Databases & Storage**  
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white)  
-![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-FF9900?logo=amazon-aws&logoColor=white)  
-![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse-0089D6?logo=microsoft-azure&logoColor=white)  
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?logo=delta&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+<!-- Column 4: DevOps & IaC -->
+<div style="flex: 1; min-width: 250px;">
+  <h4>⚙️ DevOps & IaC</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
+  </div>
+</div>
 
-#### 🔄 **Data Orchestration & Workflow**  
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apache-airflow&logoColor=white)  
-![AWS Step Functions](https://img.shields.io/badge/AWS_Step_Functions-FF9900?logo=amazon-aws&logoColor=white)  
-![Azure Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0089D6?logo=microsoft-azure&logoColor=white)  
-
-
-#### 📊 **BI & Visualization**
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-1F376C?logo=tableau&logoColor=white)
-![AWS QuickSight](https://img.shields.io/badge/AWS_QuickSight-FF9900?logo=amazon-aws&logoColor=white) 
+</div> 
 ---
 
 ### 📜 Certifications 
