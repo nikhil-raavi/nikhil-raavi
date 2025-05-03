@@ -37,9 +37,16 @@
 
 #### ☁️ **Cloud & Big Data**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-E34A1F?logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-EE4C2C?logo=apache-spark&logoColor=white)
+
+
+#### 🛠️ **ETL Tools**
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?logo=amazon-aws&logoColor=white)  
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0089D6?logo=microsoft-azure&logoColor=white) 
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)  
 
 #### 🛠️ **Languages & Tools**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
