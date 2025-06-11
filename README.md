@@ -13,7 +13,7 @@
 ### 👨‍💼 About Me
 
 - 🎓 Graduate in Computer Science & Engineering  
-- 🏢 Worked on real-time ETL and fraud detection pipelines at **Fiserv** and **Cognizant**, building scalable solutions for the healthcare and financial sectors  
+- 🏢 Worked on real-time ETL and fraud detection pipelines at **The World Bank Group** and **Cognizant**, building scalable solutions for the healthcare and financial sectors  
 - 🧠 Passionate about data storytelling, MLOps, and solving real-world problems using Python and Spark  
 - 📊 Experienced in creating **automated dashboards**, **predictive ML models**, and **streamlined ETL jobs**  
 - 🌱 Currently exploring streaming tools like Kafka and Apache Flink  
@@ -130,7 +130,7 @@
 ### 📈 Stats & Highlights
 
 - 🔍 Built a fraud detection pipeline that flagged 95%+ high-risk transactions using PySpark  
-- 📉 Reduced dashboard refresh time from 4 hours → 2.4 hours at Fiserv  
+- 📉 Reduced dashboard refresh time from 4 hours → 2.4 hours at The World Bank Group
 - 📂 Created CI/CD deployment automation using Git + Lambda + S3 for PySpark models  
 - 📦 Pushed real-time consumer pipelines using **Azure Event Hubs** and **Delta Lake**
 
